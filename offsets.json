@@ -1,0 +1,17 @@
+{
+    "fov": {
+      "address": "01A818E8",
+      "offset": "40",
+      "module": "client.dll"
+    },
+    "nearz": {
+      "address": "01AA1968",
+      "offset": "40",
+      "module": "client.dll"
+    },
+    "opaque": {
+      "address": "01A95418",
+      "offset": "F00",
+      "module": "client.dll"
+    }
+  }
