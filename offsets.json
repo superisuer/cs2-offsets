@@ -34,5 +34,11 @@
       "offset": "40",
       "module": "client.dll",
       "type": "float"
+    },
+    "nades": {
+      "address": "01A36F60",
+      "offset": "40",
+      "module": "client.dll",
+      "type": "float"
     }
   }
