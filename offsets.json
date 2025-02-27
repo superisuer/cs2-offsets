@@ -22,5 +22,17 @@
       "offset": "40",
       "module": "client.dll",
       "type": "int"
+    },
+    "delay": {
+      "address": "01A827F8",
+      "offset": "40",
+      "module": "client.dll",
+      "type": "float"
+    },
+    "viewmodel_fov": {
+      "address": "01AA18F8",
+      "offset": "40",
+      "module": "client.dll",
+      "type": "float"
     }
   }
