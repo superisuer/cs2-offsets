@@ -1,6 +1,6 @@
 {
     "fov": {
-      "address": "01A818E8",
+      "address": "01AA1968",
       "offset": "40",
       "module": "client.dll",
       "type": "float"
