@@ -16,5 +16,11 @@
       "offset": "F00",
       "module": "client.dll",
       "type": "int"
+    },
+    "fullbright": {
+      "address": "01AABDE8",
+      "offset": "40",
+      "module": "client.dll",
+      "type": "int"
     }
   }
