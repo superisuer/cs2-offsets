@@ -40,5 +40,11 @@
       "offset": "40",
       "module": "client.dll",
       "type": "float"
+    },
+    "nades_cam": {
+      "address": "01A36F70",
+      "offset": "40",
+      "module": "client.dll",
+      "type": "int"
     }
   }
